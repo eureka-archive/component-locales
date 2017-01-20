@@ -1,0 +1,21 @@
+{
+  "name": "eureka/component-locales",
+  "description": "PHP Locales library.",
+  "type": "library",
+  "license": "MIT",
+
+  "authors": [
+    {
+      "name": "Romain Cottard",
+      "role": "Developer"
+    }
+
+  ],
+
+  "autoload": {
+    "psr-4": {
+      "Eureka\\Component\\Locales\\": "./src/Locales/"
+    }
+  },
+
+}
